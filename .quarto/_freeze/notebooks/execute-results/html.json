@@ -1,0 +1,12 @@
+{
+  "hash": "136344cbadeff32f7b7346f863332e89",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Full Notebook\"\nformat:\n  html:\n    toc: false\njupyter: python3               # ensure Quarto uses the Jupyter engine :contentReference[oaicite:5]{index=5}\n---\n\n\nThe analysis below is rendered directly from the notebook.  \n\n{{< embed notebooks/your_notebook.ipynb >}}  <!-- embed entire notebook :contentReference[oaicite:6]{index=6} -->\n\n",
+    "supporting": [
+      "notebooks_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

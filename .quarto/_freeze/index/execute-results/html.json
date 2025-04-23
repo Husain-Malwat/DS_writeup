@@ -1,0 +1,12 @@
+{
+  "hash": "ea644da99a5c7c11e44aa8c395b8839e",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Home\"\nformat:\n  html:\n    toc: false\njupyter: python3\n---\n\n\n\n\nThe notebook analysis:\n\n\n\n\n{{< embed \"notebooks/DS_writeup.ipynb\" >}}\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

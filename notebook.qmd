@@ -1,0 +1,11 @@
+---
+title: "Full Notebook"
+format:
+  html:
+    toc: false
+jupyter: python3
+---
+
+The analysis below is rendered directly from the notebook.
+
+{{< embed "notebooks/DS_writeup.ipynb" >}}

@@ -1,0 +1,11 @@
+---
+title: "Home"
+format:
+  html:
+    toc: false
+jupyter: python3
+---
+
+The notebook analysis:
+
+{{< embed "notebooks/DS_writeup.ipynb" >}}

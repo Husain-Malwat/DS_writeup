@@ -1,0 +1,19 @@
+{
+  "notebooks.qmd": {
+    "notebooks.html": "ba3b2305"
+  },
+  "index.qmd": {
+    "index.html": "dfbc87ea"
+  },
+  "about.qmd": {
+    "about.html": "a37c9d68"
+  },
+  "notebooks/DS_writeup.ipynb": {
+    "DS_writeup.html": "3fe5e24d",
+    "DS_writeup.out.ipynb": "c2c04bb1",
+    "DS_writeup-preview.html": "862efbaf"
+  },
+  "notebook.qmd": {
+    "notebook.html": "4802dca7"
+  }
+}
